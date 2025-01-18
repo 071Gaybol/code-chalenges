@@ -81,6 +81,6 @@ Este repositório contém diversas soluções para problemas de programação, i
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
 
-2. **Abra o index.html no navegador**:
+2. **Abra o index.html no navegador**
 
 
